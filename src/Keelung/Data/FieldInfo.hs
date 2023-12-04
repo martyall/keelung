@@ -10,6 +10,7 @@ import Control.DeepSeq (NFData)
 import Data.Field.Galois
 import Data.Proxy
 import GHC.Generics (Generic)
+import GHC.Natural
 import GHC.TypeLits
 import Keelung.Field (FieldType (..))
 import Data.Serialize (Serialize)
